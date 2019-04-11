@@ -1,0 +1,45 @@
+@import "bootstrap";
+
+@import "font-awesome";
+
+html{
+  color: #212121;
+}
+
+a, a:hover{
+  color: #212121;	
+}
+
+.nav_bar{
+  background-color: #FFE689;
+  padding: 20px;
+
+  a img {
+  	max-height:20px;
+  }
+}
+
+.nav_ul li{
+  padding:0.3125rem 10px;
+}
+
+#dashboard_form{
+  padding: 20px;
+  text-align:center;
+}
+
+.select-filter{
+	width: 69%;
+}
+
+.card_wrapper{
+  text-align:left;
+}
+
+.inline-title{
+  display:inline-block;
+}
+
+.card-header{
+  background-color: #E54640;
+}
