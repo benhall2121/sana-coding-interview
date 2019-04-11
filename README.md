@@ -15,9 +15,9 @@ The directions for the challenge are:
 * Once complete, zip up your source code and send it over for review.
 
 * We're looking for a few things here:
-  * - Overall execution
-  * - Code readability
-  * - A clean front-end (we don't expect you to be a designer, but the UI should be easy to understand how to use)
+  * Overall execution
+  * Code readability
+  * A clean front-end (we don't expect you to be a designer, but the UI should be easy to understand how to use)
 
 ## Setup
 
